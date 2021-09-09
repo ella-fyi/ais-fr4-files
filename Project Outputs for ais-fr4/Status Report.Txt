@@ -1,0 +1,11 @@
+Output: Copy of NC Drill Files
+Type  : NC Drill
+From  : PCB Document [iso.PcbDoc]
+   Generated File[iso.LDP]
+   Generated File[iso.DRR]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 9:06:47 PM On 9/9/2021

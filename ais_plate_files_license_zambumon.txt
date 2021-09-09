@@ -1,0 +1,6 @@
+1. Using custom made plates is considered a "mod" and I cannot guarantee Auroa Input Series 65's functionality if you choose to make your own plates.
+2. Permission is hereby granted, free of charge, to any person obtaining a copy of these files, to deal in them without restriction, including without limitation the rights to use, modify, merge, publish, and/or distribute the files, and to permit persons to whom these files are furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the files.
+
+THESE FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE FILES OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

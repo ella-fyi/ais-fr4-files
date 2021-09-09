@@ -1,11 +1,31 @@
-Output: Copy of NC Drill Files
-Type  : NC Drill
-From  : PCB Document [iso.PcbDoc]
-   Generated File[iso.LDP]
-   Generated File[iso.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:17:06 PM On 9/9/2021
+
+Output: ansi
+Type  : GerberX2
+From  : PCB Document [ansi.PcbDoc]
+   Generated File[ansi_Copper_Signal_Top.gbr]
+   Generated File[ansi_Copper_Signal_Bot.gbr]
+   Generated File[ansi_Pads_Bot.gbr]
+   Generated File[ansi_Pads_Top.gbr]
+   Generated File[ansi_Legend_Bot.gbr]
+   Generated File[ansi_Soldermask_Bot.gbr]
+   Generated File[ansi_Paste_Bot.gbr]
+   Generated File[ansi_Legend_Top.gbr]
+   Generated File[ansi_Paste_Top.gbr]
+   Generated File[ansi_Soldermask_Top.gbr]
+   Generated File[ansi_Keep-out.gbr]
+   Generated File[ansi_Mechanical_1.gbr]
+   Generated File[ansi_Profile.gbr]
+   Generated File[ansi_NPTH_Drill.gbr]
+   Generated File[ansi_PTH_Drill.gbr]
+   Generated File[ansi.RUL]
+   Generated File[ansi.EXTREP]
+   Generated File[ansi.REP]
 
 
-Files Generated   : 2
+Files Generated   : 18
 Documents Printed : 0
 
-Finished Output Generation At 9:06:47 PM On 9/9/2021
+Finished Output Generation At 9:17:08 PM On 9/9/2021
